@@ -18,9 +18,5 @@ Designing a Web Page of Responsive Image Gallery with Flex Box using HTML and CS
 
 
 ![8 7](https://user-images.githubusercontent.com/66560935/88459839-c5bb2480-ceb5-11ea-8366-3ea885792f57.png)
-
-
 ![8 6](https://user-images.githubusercontent.com/66560935/88459997-c56f5900-ceb6-11ea-9965-ec5b5f96350d.png)
-
-
 ![8 5](https://user-images.githubusercontent.com/66560935/88460018-d91abf80-ceb6-11ea-972e-1dbf65e5d361.png)
